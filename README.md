@@ -1,6 +1,6 @@
 # Trabalhos e Atividades do Segundo Período - ADS
 
-Este repositório contém todos os trabalhos e atividades que desenvolvi durante o segundo período do meu curso de Análise e Desenvolvimento de Sistemas (ADS), onde a principal linguagem de programação utilizada foi C. O objetivo deste repositório é documentar e compartilhar os trabalhos e exercícios que realizei, demonstrando minhas habilidades e compreensão na linguagem C.
+Este repositório contém todos os trabalhos e atividades que desenvolvi durante o segundo período do meu curso de Análise e Desenvolvimento de Sistemas (ADS), onde a principal linguagem de programação utilizada foi C. O objetivo deste repositório é documentar e compartilhar os trabalhos e exercícios que realizei, demonstrando minhas habilidades e compreensão.
 
 ---
 
